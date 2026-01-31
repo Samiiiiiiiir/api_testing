@@ -4,7 +4,7 @@
 
 <ul>
   <li><a href="https://www.postman.com/sam1r-aslanoff-as-2644533/my-workspace/collection/47481902-4a12864b-49ee-48d2-b7ca-5be6c4afe816">Postman collection for the Petstore (REST)</a></li>
-  <li><a href="https://docs.google.com/spreadsheets/d/15_2YfiVKIfQfp6G35HjhbSG5WdPaU78hSZaEkaeQJmI/edit?usp=sharing">Test cases for Store block</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/15_2YfiVKIfQfp6G35HjhbSG5WdPaU78hSZaEkaeQJmI/edit?usp=sharing">Test Cases for Store block</a></li>
 </ul>
 
 2) I tested methods provided by http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso in Postman and created a working collection to retrieve country currency, full country information, country-specific language data, etc.:
